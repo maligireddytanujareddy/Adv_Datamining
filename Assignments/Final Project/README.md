@@ -5,8 +5,8 @@ Topic: Privacy-Preserving Social Media Data Publishing for Personalized Ranking-
 
     By: 
     Ravi Teja Reddy Dodda (016693196)
-    Tanuja Reddy Maligireddy (016260504)
-    Harika Satti (016715348)
+    Tanuja Reddy Maligireddy (016715348)
+    Harika Satti (016260504)
 
 <img src="docs/Input.jpeg" width="800" height="400">
 <img src="docs/Result.jpeg" width="800" height="600">
